@@ -41,7 +41,7 @@ body {
   padding: 0.4em 0.2em;
 }
 #set {
-  background-color: #377dff;
+  background-color: purple;
   border: none;
   padding: 0.9em 1.8em;
   display: block;
@@ -82,13 +82,13 @@ body {
   background-color: #d2e2ff;
 }
 .alarm input[type="checkbox"]:checked:before {
-  background-color: #377dff;
+  background-color: purple;
   left: 2em;
 }
 .deleteButton {
   background-color: transparent;
   font-size: 1.5em;
-  color: #377dff;
+  color: purple;
   border: none;
   cursor: pointer;
 }
